@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nhashihh@gmail.com**
 
-- ⚡ Fun fact **I think I'm friendly**
+- ⚡ Fun fact **I love hyperpop music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
