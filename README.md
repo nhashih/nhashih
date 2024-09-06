@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/nhashih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhashih" height="30" width="40" /></a>
 <a href="https://dribbble.com/nhashih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nhashih" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nhashih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nhashih" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nhashih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nhashih" height="30" width="40" /></a>
 <a href="https://discord.gg/stRynhSESE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stRynhSESE" height="30" width="40" /></a>
 </p>
 
