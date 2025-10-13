@@ -1,2 +1,2 @@
 LAZY ASFFFF
-<img src="https://github-profile-trophy.vercel.app/?username=nhashih" alt="nhashih" />
+<span><img src="https://komarev.com/ghpvc/?username=nhashih&label=Profile%20views&color=181818&style=flat" alt="nhashih" /></span>
